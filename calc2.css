@@ -1,0 +1,61 @@
+body{
+    background-image: url('https://e1.pxfuel.com/desktop-wallpaper/830/616/desktop-wallpaper-light-colour-backgrounds-llight-color-background-thumbnail.jpg');
+    margin-top: 200px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 200px;
+}
+table{
+    margin-left: 550px;
+    margin-top: 60px;
+    padding: 10px;
+    transform: scale(2,2);
+}
+input[type=text]{
+    transform: scale(2,2);
+    background-color:rgb(235, 111, 175) ;
+}
+button:hover{
+    background-color: rgb(106, 198, 235);
+    transform: scale(1,2);
+}
+
+
+.calculator{
+    height: 150px;
+    width:110px;
+    background-color:rgba(0, 0, 0, 0.467);
+    border-radius: 10px;
+    margin-left: 180px;
+    margin-top: 50px;
+    padding: 20px;
+
+}
+.box,h6{
+    margin-top: -3px;
+    text-align: center;
+    color: white;
+}
+td:hover{
+    transform: scale(0.8,0.8);
+    background-color: rgba(0, 234, 255, 0.856);
+}
+
+table,tr,td{
+    background-color: black;
+   margin-right: 2px;
+   margin-top: -3px;
+}
+
+input{
+    width:105px;
+    margin-bottom: 10px;
+    margin-top: -3px;
+
+}
+body{
+    background-image: url('https://e1.pxfuel.com/desktop-wallpaper/830/616/desktop-wallpaper-light-colour-backgrounds-llight-color-background-thumbnail.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+}
